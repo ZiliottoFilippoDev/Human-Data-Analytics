@@ -10,4 +10,6 @@ We demonstrate the effectiveness of using augmentation and different feature ext
 
 ![alt text](https://github.com/ZiliottoFilippoDev/Human-Data-Analytics/blob/f5377b639daaa30c5ddfce04a7a17998f9974bbc/architecture.png)
 
+![alt text](https://github.com/ZiliottoFilippoDev/Human-Data-Analytics/blob/9a437bc847587ca5c3b0e7e759416ad1f66f3c4e/result.jpg)
+
 

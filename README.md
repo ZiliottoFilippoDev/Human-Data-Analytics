@@ -8,7 +8,7 @@ With that, we are able to outperform the accuracy of the state-of-the-art model 
 The experimental results show that all proposed models can identify the patients and their in-bed posture with almost no errors. 
 We demonstrate the effectiveness of using augmentation and different feature extraction levels to further generalize the network and make it more robust to previously unseen data. Finally we show how our model can  ultimately be deployed in clinical and smart home environments as a complementary tool with other available automated patient monitoring systems. This is done by implementing the LOSO validation scheme that reaches a $88\%$ classification accuracy for the 17 different postures on previously unseen subjects.
 
-![alt text](https://github.com/ZiliottoFilippoDev/Human-Data-Analytics/blob/f5377b639daaa30c5ddfce04a7a17998f9974bbc/architecture.jpg)
+![alt text](https://github.com/ZiliottoFilippoDev/Human-Data-Analytics/blob/c4f18a4c2b5016a4b8f72ad8c02732ea8f21f4ac/architecture.jpg)
 
 ![alt text](https://github.com/ZiliottoFilippoDev/Human-Data-Analytics/blob/9a437bc847587ca5c3b0e7e759416ad1f66f3c4e/result.jpg)
 
